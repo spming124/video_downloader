@@ -38,8 +38,8 @@ function Home() {
               Video<span className="text-[#bd001c]">Downloader</span>
             </h1>
             <p className="mt-3 text-base text-gray-700 sm:mt-6 sm:text-xl lg:text-lg xl:text-xl">
-              Free online video downloader for YouTube, Tiktok, Instagram and
-              Facebook.
+              Free video downloader for YouTube, Tiktok, Instagram and
+              Facebook
             </p>
           </div>
           <div className="mt-6 sm:mt-7 sm:mx-auto">
